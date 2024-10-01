@@ -1,6 +1,6 @@
 # rbff1.bat
 
-アケアカNEOGEO    
+アケアカNEOGEO (Android)    
 リアルバウト餓狼伝説  
 
 確認  
